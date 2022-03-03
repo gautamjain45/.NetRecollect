@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+*.cs
+/DataStructures_And_Algorithms/LinkedListPractice/.vs/LinkedListPractice
+/DataStructures_And_Algorithms/LinkedListPractice/LinkedListPractice/bin/Debug/netcoreapp3.1
+/DataStructures_And_Algorithms/LinkedListPractice/LinkedListPractice/obj/project.nuget.cache
+/DataStructures_And_Algorithms/LinkedListPractice/LinkedListPractice/obj/project.assets.json
+/DataStructures_And_Algorithms/LinkedListPractice/LinkedListPractice/obj/LinkedListPractice.csproj.nuget.g.targets
+/DataStructures_And_Algorithms/LinkedListPractice/LinkedListPractice/obj/LinkedListPractice.csproj.nuget.g.props
+/DataStructures_And_Algorithms/LinkedListPractice/LinkedListPractice/obj/LinkedListPractice.csproj.nuget.dgspec.json
+/DataStructures_And_Algorithms/LinkedListPractice/LinkedListPractice/obj/Debug/netcoreapp3.1
+/DesignPatterns/FactoryPattern/.vs/DesignPatterns/v16/.suo
